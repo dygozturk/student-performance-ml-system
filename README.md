@@ -41,5 +41,5 @@ python src/app.py
 ```
 
 ## Notes for GitHub
-- Add a screenshot of the GUI into `assets/` and reference it here.
+- Add a screenshot of the GUI into `assets/` and reference it here..
 - If your dataset is big, put only a small sample in `data/` and link the full dataset source in this README.
